@@ -1,6 +1,11 @@
 # Android
 1. [Udacity Class](https://www.udacity.com/)
-2. [Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
+2. 
+# Networking
+1. [Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 # Java
 1. [Practice Problems](https://projecteuler.net)
-## Video List
+2. [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
+3. [Java Intro](https://www.udacity.com/course/intro-to-java-programming--cs046)
+4. [4 componenets to oop](https://www.tutorialspoint.com/java/java_inheritance.htm)
+# Que
