@@ -5,7 +5,7 @@
 4. [Interview Questions2](http://www.mobilemammoth.com/11-android-developer-interview-questions-and-answers-pdf-download/)
 5. [Android Channel](https://www.youtube.com/user/androiddevelopers)
 6. [Tutorial Point Android](https://www.tutorialspoint.com/android/index.htm)
-7. [Android Beginner - Build First APP](https://developer.android.com/training/index.html)
+7. [Getting Started](https://developer.android.com/training/index.html)
 # Networking
 1. [Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 # Java
