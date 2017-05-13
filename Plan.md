@@ -1,9 +1,6 @@
 # Android
 1. [Udacity Class](https://www.udacity.com/)
-2. [Interview Questions](https://www.truelancer.com/blog/top-android-development-interview-questions-answers/)
-3. [Interview Questions2](http://www.mobilemammoth.com/11-android-developer-interview-questions-and-answers-pdf-download/)
-4. [Android Channel](https://www.youtube.com/user/androiddevelopers)
-
+2. [Android Platform](https://developer.android.com/index.html)
 # Networking
 1. [Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 # Java
@@ -13,3 +10,6 @@
 4. [4 componenets to oop](https://www.tutorialspoint.com/java/java_inheritance.htm)
 
 # Que
+1. [NVidia CUDA](https://developer.nvidia.com/cuda-toolkit)
+2. [Puppet](https://puppet.com/)
+3. [Ansible](https://www.ansible.com/)
